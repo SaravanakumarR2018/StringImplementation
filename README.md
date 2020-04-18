@@ -1,5 +1,5 @@
 # StringImplementation
-prerequisites
+Prerequisites
 ```
 apt install g++
 apt install make
